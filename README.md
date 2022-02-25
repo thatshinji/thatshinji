@@ -8,5 +8,5 @@
 y2il/y2il is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y2il&show_icons=true&show_owner=true&theme=synthwave)](https://github.com/y2il/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y2il&show_icons=true&show_owner=true)](https://github.com/y2il/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2il&layout=compact)](https://github.com/y2il/github-readme-stats)
